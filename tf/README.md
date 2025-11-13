@@ -139,7 +139,7 @@ base_link → camera_frame → human_in_camera
 
 Esta estructura cumple las recomendaciones del REP 105 sobre nombres y relaciones espaciales coherentes.
 
-![Árbol de transformaciones en RViz2](human_tf_camera_example/resources/captura_rviz2.png)
+![Árbol de transformaciones en RViz2](ros2_ws/src/human_tf_camera_example/resources/captura_rviz2.png)
 *Figura 1. Representación del árbol de TFs en RViz2, mostrando la relación entre los frames del portátil (base_link), la cámara (camera_frame) y el humano (human_in_camera).*
 
 ---
